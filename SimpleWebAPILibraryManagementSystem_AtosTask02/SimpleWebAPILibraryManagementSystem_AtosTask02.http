@@ -1,0 +1,6 @@
+@SimpleWebAPILibraryManagementSystem_AtosTask02_HostAddress = http://localhost:5188
+
+GET {{SimpleWebAPILibraryManagementSystem_AtosTask02_HostAddress}}/Authors/
+Accept: application/json
+
+###
